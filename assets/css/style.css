@@ -1,0 +1,52 @@
+body {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Roboto', light, sans-serif;
+    font-size: 55pt;
+    text-align: center;
+    padding-top: 55px;
+    color:black;
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 35pt;
+    text-align: center;
+    color: black;
+}
+
+h3 {
+    font-size: 35pt;
+    color: black;
+}
+
+p {
+    text-align: center;
+    font-size: 25pt;
+    color: black;
+}
+
+.btn {
+    font-size: 35pt;
+}
+
+#crystal1 {
+    padding-left: 455px;
+}
+#crystal2 {
+    padding-top: 55px;
+    padding-left: 155px;
+}
+
+#crystal3 {
+    padding-top: 55px;
+    padding-right: 155px;
+}
+
+#crystal4 {
+    padding-right: 455px;
+}
