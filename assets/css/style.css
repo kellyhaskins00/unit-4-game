@@ -1,33 +1,40 @@
 body {
+    background-color: #f4c7c1;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+.container-fluid {
+    width: 80%;
+}
+
 h1 {
-    font-family: 'Roboto', light, sans-serif;
-    font-size: 25pt;
+    font-family: 'Dancing Script', cursive;
+    font-size: 45pt;
     text-align: center;
     padding-top: 55px;
-    color:black;
+    color:white;
 }
 
 h2 {
     font-family: 'Roboto', sans-serif;
     font-size: 15pt;
     text-align: center;
-    color: black;
+    color: white;
 }
 
 h3 {
-    font-size: 15pt;
-    color: black;
+    font-family: 'News Cycle', sans-serif;
+    font-size: 18pt;
+    color: white;
 }
 
 p {
+    font-family: 'News Cycle', sans-serif;
     text-align: center;
-    font-size: 10pt;
-    color: black;
+    font-size: 12pt;
+    color: white;
 }
 
 .btn {
@@ -35,18 +42,19 @@ p {
 }
 
 #crystal1 {
-    padding-left: 300px;
+    max-width: 50%;
+    height: auto;
 }
 #crystal2 {
-    padding-top: 55px;
-    padding-left: 155px;
+    max-width: 40%;
+    height: auto;
 }
 
 #crystal3 {
-    padding-top: 55px;
-    padding-right: 105px;
+    max-width: 40%;
+    height: auto;
 }
 
 #crystal4 {
-    padding-right: 600px;
-}
+    max-width: 50%;
+    height: auto;
