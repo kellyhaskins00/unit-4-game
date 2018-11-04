@@ -1,5 +1,5 @@
 body {
-    background-color: #f4c7c1;
+    /*background-color: #f4c7c1;*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -14,27 +14,27 @@ h1 {
     font-size: 45pt;
     text-align: center;
     padding-top: 55px;
-    color:white;
+    color:black;
 }
 
 h2 {
     font-family: 'Roboto', sans-serif;
     font-size: 15pt;
     text-align: center;
-    color: white;
+    color: black;
 }
 
 h3 {
     font-family: 'News Cycle', sans-serif;
     font-size: 18pt;
-    color: white;
+    color: black;
 }
 
 p {
     font-family: 'News Cycle', sans-serif;
     text-align: center;
     font-size: 12pt;
-    color: white;
+    color: black;
 }
 
 .btn {
